@@ -1,6 +1,6 @@
 The enwiki-20240501-pages-articles-multistream.xml.bz2 is from https://dumps.wikimedia.org/enwiki/20240501/.
 
-The folder "wikiextractor240901" is obtained by "wikiextractor". The command in Ubuntu is python3 -m wikiextractor.WikiExtractor --json /mnt/d/240901paper3/enwiki-20240501-pages-articles-multistream.xml.bz2 -o /mnt/d. Please refer to https://github.com/attardi/wikiextractor and https://yulianudelman.medium.com/build-a-corpus-for-nlp-models-from-wikipedia-dump-file-475b21145885
+The folder "wikiextractor240901" is obtained by "wikiextractor". The command in Ubuntu is python3 -m wikiextractor.WikiExtractor --json /mnt/d/20240901paper3/enwiki-20240501-pages-articles-multistream.xml.bz2 -o /mnt/d. Please refer to https://github.com/attardi/wikiextractor and https://yulianudelman.medium.com/build-a-corpus-for-nlp-models-from-wikipedia-dump-file-475b21145885
 
 he_wiki.txt file and "he_wiki_cleaned" are created by the cleanwiki.ipynb. The "he_wiki_cleaned" is used for analysis.
 
