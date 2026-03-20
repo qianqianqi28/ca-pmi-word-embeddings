@@ -1,5 +1,5 @@
-# A comparison of correspondence analysis with PMI-based word embedding methods
-This project is for A comparison of correspondence analysis with PMI-based word embedding methods.
+# Correspondence Analysis and PMI-Based Word Embeddings: A Comparative Study
+This project is for Correspondence Analysis and PMI-Based Word Embeddings: A Comparative Study.
 
 ## Configuration instructions
 The project structure distinguishes two folders:
